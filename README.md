@@ -1,16 +1,18 @@
-### Hi there 👋
+### GM 👋, I am Abdulsamad Otaiki Sadiq, call me OT!.
+I am a Blockchain developer , final year Telecommunication Engineering Undergraduate, aspiring genius and tech lover.
 
-<!--
-**Otaiki1/Otaiki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Aside Solving problems with code, I enjoy surfing Youtube, writing medium articles, teaching people how to code and learning. You can check out some of my projects here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on an NFT marketplace
+- 🌱 I’m currently learning React, Solidity 
+- 👯 I’m looking to collaborate on projects centered around building solutions
+- 💬 Ask me about tech.
+- 📫 How to reach me: via my linkedin
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy learning the most random stuff
+
+
+[![Otaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Otaiki1)](https://github.com/Otaiki1/github-readme-stats)
