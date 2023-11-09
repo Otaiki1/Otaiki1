@@ -6,8 +6,8 @@ Aside Solving problems with code, I enjoy surfing Youtube, writing medium articl
 
 
 
-- 🔭 I’m currently working on web applications and smart contracts
-- 🌱 I’m currently learning React, Solidity 
+- 🔭 I’m currently building stuff on the blockchain.
+- 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on projects centered around building solutions.
 - 📫 How to reach me: via otaikisadiq2804@gmail.com
 - ⚡ Fun fact: I enjoy learning the most random stuff
