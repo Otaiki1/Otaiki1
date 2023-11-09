@@ -1,5 +1,4 @@
 ### GM 👋, I am Abdulsamad Otaiki Sadiq, call me OT!.
-I am a Blockchain developer , final year Telecommunication Engineering Undergraduate, aspiring genius and tech lover.
 
 
 Aside Solving problems with code, I enjoy surfing Youtube, writing medium articles, teaching people how to code and learning. You can check out some of my projects here
